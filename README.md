@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @laytongwin
-- 👀 I’m interested in ... batman
-- 🌱 I’m currently learning ... code
-- 💞️ I’m looking to collaborate on ... code
-- 📫 How to reach me ...code
+- 👀 I’m interested in game development and cyber security
+- 🌱 I’m currently learning the betterment of python and phaser 
+- 💞️ I’m looking to collaborate on cyber related projects
+- 📫 How to reach me instagram:laytongwin
 - 😄 Pronouns: ...he
-- ⚡ Fun fact: ... batman
+- ⚡ Fun fact: I like cookies
 
 <!---
 laytongwin/laytongwin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
