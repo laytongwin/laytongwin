@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on cyber related projects
 - 📫 How to reach me instagram:laytongwin
 - 😄 Pronouns: ...he
-- ⚡ Fun fact: I like cookies
+- ⚡ Fun fact: I'm going into welding!
 
 <!---
 laytongwin/laytongwin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
